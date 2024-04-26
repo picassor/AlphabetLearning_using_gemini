@@ -40,7 +40,4 @@ npm run dev
 
 ```
 
-## 🔗 Links
-Github Repo:
-https://github.com/Chirag2203/DoubleImageEncrytion
 
